@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title></title>
+    <title>闪亮登场</title>
 </head>
 <body>
     <div id="he-plugin-simple"></div>

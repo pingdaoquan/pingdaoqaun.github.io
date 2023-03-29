@@ -1,5 +1,3 @@
-# 这是一个天气插件网页
-
 <!DOCTYPE html>
 <html>
 <head>

@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title>这啥啊</title>
+    <title></title>
 </head>
 <body>
     <div id="he-plugin-simple"></div>
@@ -22,7 +21,7 @@ WIDGET = {
     "padding": "10px 10px 10px 10px",
     "shadow": "0",
     "language": "auto",
-    "borderRadius": "50",
+    "borderRadius": "0",
     "fixed": "true",
     "vertical": "top",
     "horizontal": "left",
